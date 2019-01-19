@@ -1,0 +1,41 @@
+body
+{
+	
+	background: #ddd;
+}
+
+.box1 {
+	border: 1px solid;
+     padding: 10px;
+     box-shadow: 5px 10px yellow;
+     margin:50px;
+}
+
+.box2 {
+	 border: 1px solid;
+     padding: 10px;
+     box-shadow: 5px 10px 15px blue;
+     margin:50px;
+}
+
+.box3 {
+	order: 1px solid;
+     padding: 10px;
+     box-shadow: 5px 10px 15px 10px red;
+     margin:50px;
+}
+
+.box4 {
+	 order: 1px solid;
+     padding: 10px;
+     box-shadow: 5px 5px 8px blue, 10px 10px 8px yellow, 15px 15px 8px red;
+     margin:50px;
+}
+
+.box5 {
+	 order: 1px solid;
+     padding: 10px;
+     box-shadow: 5px 15px 20px red inset;
+     margin:50px;
+}
+
